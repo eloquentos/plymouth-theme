@@ -1,6 +1,6 @@
 # Eloquent OS plymouth theme - Nimbusoft Ltd <opensource@nimbusoft.co.uk>
 #Original concept by Lozano Juan Pablo <libredeb@gmail.com>
-#Adapted version by Fabián Alexis <fabian.inostroza.1992@gnail.com>
+#Adapted version by Fabián Alexis <fabian.inostroza.1992@gmail.com>
 
 Window.GetMaxWidth = fun (){
   i = 0;
