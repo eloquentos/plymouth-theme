@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=eloquent
+Description=Eloquent OS boot screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/eloquent
+ScriptFile=/usr/share/plymouth/themes/eloquent/eloquent.script
